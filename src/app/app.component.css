@@ -1,5 +1,4 @@
 header {
-    background-color: #ae00ff;
     color: #ffffff;
     display: flex;
     padding: 1rem;
@@ -22,7 +21,14 @@ header a {
 }
   
 footer {
-    background-color: #aaaaaa;
     color: #ffffff;
     padding: 0.5rem 1rem;
 }
+
+mat-chip-listbox a {
+    text-decoration: none;
+  }
+
+  .spacer {
+    flex: 1 1 auto;
+  }

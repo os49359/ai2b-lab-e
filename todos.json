@@ -4,7 +4,7 @@
       "id": 2,
       "title": "Hello Again World",
       "deadline": "2000-01-01",
-      "completed": false,
+      "completed": true,
       "archived": false
     },
     {
@@ -13,6 +13,13 @@
       "completed": true,
       "archived": true,
       "id": 5
+    },
+    {
+      "title": "Zrobić zakupy",
+      "deadline": "2023-12-10",
+      "completed": false,
+      "archived": false,
+      "id": 6
     }
   ]
 }
